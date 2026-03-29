@@ -2,7 +2,7 @@
 
 > **This is an unofficial fan-made Japanese translation mod. It is not affiliated with or endorsed by the developers of Tower Networking Inc.**
 
-Steamゲーム「[Tower Networking Inc.](https://store.steampowered.com/app/2832740/Tower_Networking_Inc/)」の**非公式**日本語翻訳Modです。ゲーム開発者とは一切関係ありません。
+Steamゲーム「[Tower Networking Inc.](https://store.steampowered.com/app/2939600/Tower_Networking_Inc/)」の**非公式**日本語翻訳Modです。ゲーム開発者とは一切関係ありません。
 
 ゲーム内テキストの約97%（3029/3108エントリ）を日本語に翻訳しています。
 
