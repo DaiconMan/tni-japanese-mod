@@ -1,6 +1,8 @@
 # Tower Networking Inc. 日本語化Mod
 
-Steamゲーム「[Tower Networking Inc.](https://store.steampowered.com/app/2832740/Tower_Networking_Inc/)」の非公式日本語翻訳Modです。
+> **This is an unofficial fan-made Japanese translation mod. It is not affiliated with or endorsed by the developers of Tower Networking Inc.**
+
+Steamゲーム「[Tower Networking Inc.](https://store.steampowered.com/app/2832740/Tower_Networking_Inc/)」の**非公式**日本語翻訳Modです。ゲーム開発者とは一切関係ありません。
 
 ゲーム内テキストの約97%（3029/3108エントリ）を日本語に翻訳しています。
 
@@ -40,9 +42,15 @@ Steamゲーム「[Tower Networking Inc.](https://store.steampowered.com/app/2832
 
 ## 注意事項
 
-- 非公式の有志翻訳です
+- **本Modは非公式の有志翻訳であり、ゲーム開発者・パブリッシャーとは一切関係ありません**
 - ゲームのアップデートにより翻訳が上書きされる場合があります。その際は再インストールしてください
 - 未翻訳のエントリはゲーム内テスト用文字列（foobar等）のみです
+
+## 免責事項
+
+本Modは現状のまま（AS IS）で提供されます。本Modの使用により生じたいかなる損害（ゲームデータの破損、動作不具合等を含むがこれに限らない）についても、作者は一切の責任を負いません。自己責任でご利用ください。
+
+This mod is provided "as is", without warranty of any kind. The author shall not be liable for any damages arising from the use of this mod. Use at your own risk.
 
 ## ビルド方法（開発者向け）
 
